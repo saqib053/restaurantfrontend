@@ -1,0 +1,2 @@
+Type the following by git bashing here in this folder
+json-server --watch db.json
